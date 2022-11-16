@@ -1,4 +1,4 @@
-Hi 👋 My name is asmae oussama jamil
+Hi 👋 My name is oussama jamil
 
 software developer
 

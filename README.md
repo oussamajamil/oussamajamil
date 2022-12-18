@@ -1,6 +1,4 @@
 Hi 👋 My name is oussama jamil
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aeddaqqa&label=Profile%20views&color=0e75b6&style=flat" alt="aeddaqqa" /> </p>
 software developer
 
 

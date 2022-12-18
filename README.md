@@ -12,13 +12,13 @@ software develope
  -- Skills
 C Javascript  HTML5 React NextJs Vue Nuxtjs CSS3 NodeJS MongoDB MySQL PostgreSQL Flutter ReactNative
 </div>
-I am student 1337
+<h3>I am student 1337</h3>
 
 
 
 <details open>	
 
- [![ojamil's 42 stats]
+[![ojamil's 42 stats]
 (https://badge.mediaplus.ma/greenbinary/ojamil)](https://github.com/oakoudad/badge42)
 </details>
 

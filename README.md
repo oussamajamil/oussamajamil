@@ -12,4 +12,11 @@ software developer
 C Javascript  HTML5 React NextJs Vue Nuxtjs CSS3 NodeJS MongoDB MySQL PostgreSQL Flutter ReactNative
 </div>
 I am student 1337
-[![ojamil's 42 stats](https://badge.mediaplus.ma/greenbinary/ojamil)](https://github.com/oakoudad/badge42)
+
+
+
+<details open>	
+  [![ojamil's 42 stats]
+(https://badge.mediaplus.ma/greenbinary/ojamil)](https://github.com/oakoudad/badge42)
+</details>
+
